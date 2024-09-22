@@ -4,7 +4,7 @@
     "homepage": "https://bbsync.app/",
     "license": "GPL-2.0",
     "url": "https://github.com/ziyuanding/BlackboardSync/releases/tag/0.11.2/BlackboardSync-0.11.2.exe#/dl.7z",
-    "hash": "4B856C0B49B1025069CAEC9E576336EA4E80568D60EB67ED02EC3C1322C8BD66",
+    "hash": "7abd3a23c17628aef22ba5cf58b015d442971571267682f1d11afc1292a358fb",
     "bin": "BBSync.exe",
     "shortcuts": [
         [
