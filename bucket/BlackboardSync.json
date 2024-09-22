@@ -5,11 +5,10 @@
     "license": "GPL-2.0",
     "url": "https://github.com/sanjacob/BlackboardSync/releases/download/0.17.0/Blackboard.Sync-0.17.0.exe#/dl.7z",
     "hash": "20D33998BD8A0057228EC3A1BF7BDA2CF49321D9A40F4A0255CB49622C9A38DB",
-    "bin": "BBSync.exe",
+    "bin": "BlackboardSync.exe",
     "shortcuts": [
         [
-            "BBSync.exe",
-            "BBSync"
+            "BlackboardSync.exe"
         ]
     ]
 }
