@@ -3,8 +3,8 @@
     "description": "BlackboardSync performs a periodic, incremental download of all your Blackboard content, such as lecture slides, lab sheets, and other attachments.",
     "homepage": "https://bbsync.app/",
     "license": "GPL-2.0",
-    "url": "https://github.com/sanjacob/BlackboardSync/releases/download/0.11.2/BlackboardSync-0.11.2.exe#/dl.7z",
-    "hash": "625ef4eaaa9eaae426eb865e6f17ab70e666cd704fcb0369523a17e0cdaff937",
+    "url": "https://github.com/ziyuanding/BlackboardSync/releases/tag/0.11.2/BlackboardSync-0.11.2.exe#/dl.7z",
+    "hash": "4B856C0B49B1025069CAEC9E576336EA4E80568D60EB67ED02EC3C1322C8BD66",
     "bin": "BBSync.exe",
     "shortcuts": [
         [
